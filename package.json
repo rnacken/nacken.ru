@@ -1,7 +1,7 @@
 {
-  "name": "angular2-starter",
-  "version": "1.0.1",
-  "description": "Starter kit using Angular 2, Typescript, Webpack",
+  "name": "nacken.ru portfolio",
+  "version": "1.0",
+  "description": "testing the waters with Angular 2, Typescript, Webpack",
   "scripts": {
     "server:dev": "webpack-dev-server --config config/webpack.dev.js --inline --progress --watch",
     "start": "npm run server:dev",
@@ -11,12 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/michaelbazos/angular2-starter.git"
   },
-  "author": "Michael Bazos",
+  "author": "Ru Nacken",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/michaelbazos/angular2-starter/issues"
-  },
-  "homepage": "https://github.com/michaelbazos/angular2-starter#readme",
   "dependencies": {
     "@angular/common": "^4.0.2",
     "@angular/compiler": "^4.0.2",
