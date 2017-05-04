@@ -9,3 +9,5 @@ Dit is een oefenproject voor Angular2.
 * De site content wordt in het parent component geladen en doorgegeven zodat de dropdown dit kan tonen.
 * CSS zit tijdelijk in de components
 * Zie: https://github.com/rnacken/nacken.ru/blob/master/nacken-ru-menu.gif voor de werking van het menu.
+
+* todo: het idee is dat de dropdown meeschuift boven de bijbehorende menuknop. Verder moet het formaat geanimeerd groter/kleiner worden.
